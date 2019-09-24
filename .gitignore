@@ -10,3 +10,5 @@ rel/example_project
 .rebar
 Intermediate/
 Saved/
+Build/
+Binaries/
